@@ -1,0 +1,1 @@
+Lab work dedicated to deploying a simple static website using GitHub Actions technology
